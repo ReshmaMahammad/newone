@@ -2,5 +2,5 @@ str1="reshma"
 str2="capgemini"
 str3="hello world"
 str=str1+str2+str3
-print("str")
+print(str)
 
